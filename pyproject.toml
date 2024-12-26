@@ -55,7 +55,7 @@ dependencies = [
   "networkx",               # Pipeline graphs
   "typing_extensions>=4.7", # typing support for Python 3.8
   "requests",
-  "numpy",
+  "numpy==1.26.4",
   "python-dateutil",
   "haystack-experimental",
 ]
