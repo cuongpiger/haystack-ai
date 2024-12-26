@@ -47,7 +47,7 @@ dependencies = [
   "tenacity!=8.4.0",
   "lazy-imports",
   "openai>=1.56.1",
-  "pydantic<2",
+  "pydantic",
   "Jinja2",
   "posthog",                # telemetry
   "pyyaml",
